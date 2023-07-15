@@ -1,2 +1,2 @@
 # fetching Api
- A single page created with the help of API 
+A single web page created by fetching the API .
